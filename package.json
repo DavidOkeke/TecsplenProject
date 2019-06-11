@@ -1,0 +1,24 @@
+{
+  "name": "tecsplenproject",
+  "version": "1.0.0",
+  "description": "my first node js work",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOkeke/TecsplenProject.git"
+  },
+  "author": "David Okeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidOkeke/TecsplenProject/issues"
+  },
+  "homepage": "https://github.com/DavidOkeke/TecsplenProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
